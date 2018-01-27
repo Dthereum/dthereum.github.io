@@ -37,3 +37,5 @@ Miners will continue to be profitable for as long as the currency is in use.
 ### No Proof-of-Stake
 The currency will always be controlled by miners. 
 
+## Nothing to Gain!
+I am not a miner; I have one GPU that I use for deep learning research. I did make a fairly large investment into ETH years ago, but I'm okay with losing it. Why am I doing this? I've been interested in this field since I first saw David Chaum on NOVA in 1992. I read Satoshi's paper in 2008. I want cryptocurrency to create a better world, not something with bigger problems than we already have with fiat.
