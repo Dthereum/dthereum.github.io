@@ -1,11 +1,11 @@
 # Ethereum Deliverance
 True Decentralization for the Ethereum blockchain. Owned and controlled by nobody.
 
-## All your DAPPs are belong to Vitalik
+## All your DAPPs are belong to Them
 Building on the Ethereum main chain is a dangerous risk for your DAPP. Currently the Ethereum foundation has complete control of the platform, and can kill your DAPP any time they want. Dthereum is a safe platform for DAPP developers because nobody will ever have a controlling interest in the currency.
 
 ### Massive Pre-mine
-60a Million Ether were pre-mined, and only 20 million were mined since. Most of those coins are held by a small group that controls the foundation. Even the mining in the early days was mostly controlled by the foundation and paid for by the crowdsale proceeds.
+60 million Ether were pre-mined, and only 20 million were mined since. Most of those coins are held by a small group that controls the foundation. Even the mining in the early days was mostly controlled by the foundation and paid for by the crowdsale proceeds.
 
 ### Small fraction of coins in circulation
 Most of the coins that are sold are the ones that were mined in the last year, simply because miners need to pay for their equipment and electricity. Every time you raise money for an ICO, it pushes the price much higher and the benefit mostly goes to the foundation.
