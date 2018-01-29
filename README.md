@@ -37,5 +37,24 @@ Miners will continue to be profitable for as long as the currency is in use.
 ### No Proof-of-Stake
 The currency will always be controlled by miners. 
 
+### 100% compatible
+This fork will be 100% compatible with all existing ethereum smart contracts, ready for deployment immediately.
+
 ## Nothing to Gain!
 I am not a miner; I have one GPU that I use for deep learning research. I did make a fairly large investment into ETH years ago, but I'm okay with losing it. Why am I doing this? I've been interested in this field since I first saw David Chaum on NOVA in 1992. I read Satoshi's paper in 2008. I want cryptocurrency to create a better world, not something with bigger problems than we already have with fiat.
+
+## Economic Darwinism
+In the long run, the currency that supports the strongest economy will win. Generally this means getting as many people to contribute their time and creativity to productive purposes as possible. 
+
+### Open and Trustless
+Trust is inefficient. Any controlling interest in a currency requires trust and creates uncertainty. It's not enough to consider yourself trustworthy and promise you won't do anything wrong. 
+
+### Economic distribution
+An efficient economy distributes capital according to an individual's contribution. Mining provides the bedrock of a long chain of economic activity that is the best mechanism for economically-efficient distribution we know of. There have been other experiments with airdrops and human busy-work, but actually mining has much more efficient downstream distribution effects to get currency in the hands of those deploying capital to productive purposes. We're still researching our "proof of interstellar-colonization" blockchain.
+
+### Clean history
+The history of cryptocurrency is littered with scams, hacks, and law enforcement activity. We've learned a lot since then. It's still early, but we should do our best to avoid inheriting the bad effects from these failures when the systems are not robust to them.
+
+### Sense of Fairness
+Fairness, whether you like it or not, is a huge emotional driver for human activity. The feeling of "unfairness" makes people disengage, revolt, and go to war. It's a huge source of productive drain on an economy. The last human economic system will be considered "fair" by the largest number of productive and creative people. I can only guess whether the robots will care.
+
